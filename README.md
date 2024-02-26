@@ -1,7 +1,8 @@
 # ponderada-web-server
 
 Esse repositório é destinado para armazenar os códigos da atividade ponderada da Semana 3 do Módulo 7 da Turma 5.
-Para desenvolver a atividade foi seguido o [tutorial](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html) que explica: lançamento de uma instância EC2; lançamento de uma instância RDS; instação de um web server na instância EC2 com Apache.
+
+Para desenvolver a atividade foi seguido o [tutorial](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html) que explica: lançamento de uma instância EC2; lançamento de uma instância RDS; instalação de um web server na instância EC2 com Apache.
 
 ## Códigos no Repositório
 - PaginaInicial.php
